@@ -1,0 +1,24 @@
+html,body{
+margin:0;
+height:100%;
+overflow:hidden;    
+}
+c{
+display:block;
+}
+.gametitle{
+width:80%;
+height:100px;
+object-fit: contain;
+}
+.input{
+width:200px;
+height:30px;  
+border:3px solid lightblue;
+border-radius:30px;
+padding:10px
+}
+.play{
+background-color:lightseagreen;
+ 
+}
